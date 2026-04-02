@@ -10,7 +10,7 @@ It integrates **student demographics, academic performance, and financial data**
 ## 📊 Dashboard Preview
 
 
-![Finance Page](/Images/Student%20PowerBI/Finance%20Overview.png)
+![Finance_Overview](/Images/Student%20PowerBI/Finance%20Overview.png)
 
 
 ---
@@ -22,7 +22,7 @@ This project is built using a **Star Schema** data model to ensure efficient que
 ### 🔷 Schema Design
 
 
-![Data Modelling](/Images/Student%20PowerBI/Data%20Modelling.png)
+![Data_Modelling](/Images/Student%20PowerBI/Data%20Modelling.png)
 
 
 - **Fact Table:** `school_fact`  
@@ -48,7 +48,7 @@ This project is built using a **Star Schema** data model to ensure efficient que
 
 
 
-![Finance Page](/Images/Student%20PowerBI/Finance%20Overview.png)
+![Finance_Overview](/Images/Student%20PowerBI/Finance%20Overview.png)
 
 ### 💰 Finance Overview
 - Total Revenue: **142.55bn**
@@ -65,7 +65,7 @@ This project is built using a **Star Schema** data model to ensure efficient que
 
 ### 👨🎓 Student Demographics
 
-![Student Overview](/Images/Student%20PowerBI/School%20Overview.png)
+![School_Overview](/Images/Student%20PowerBI/School%20Overview.png)
 
 
 
@@ -87,7 +87,7 @@ This project is built using a **Star Schema** data model to ensure efficient que
 
 #### Student Performance
 
-![Academic Page](/Images/Student%20PowerBI/Academic%20Overview.png)
+![Academic_Overview](/Images/Student%20PowerBI/Academic%20Overview.png)
 
 
 - Global Pass Rate: **74.74%**
@@ -98,7 +98,7 @@ This project is built using a **Star Schema** data model to ensure efficient que
 
 #### Lecturer Performance
 
-![Lecturer](/Images/Student%20PowerBI/Lecturer%20Overview.png)
+![Lecturer_Overview](/Images/Student%20PowerBI/Lecturer%20Overview.png)
 
 
 - Evaluated **99 lecturers**
